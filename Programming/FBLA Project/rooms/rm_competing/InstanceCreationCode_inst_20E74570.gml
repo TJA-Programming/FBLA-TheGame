@@ -1,0 +1,1 @@
+doorType = DOOR.PARCOUR;

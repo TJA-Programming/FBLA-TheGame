@@ -1,0 +1,2 @@
+//Artificial gravity
+y += grav;

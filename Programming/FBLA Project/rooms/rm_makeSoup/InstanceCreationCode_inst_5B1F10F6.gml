@@ -1,0 +1,1 @@
+boxType = BOX.BLUE;
